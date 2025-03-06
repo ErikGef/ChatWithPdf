@@ -1,0 +1,9 @@
+streamlit
+langchain_community
+langchain
+groq
+langchain_huggingface
+langchain_experimental
+faiss-cpu
+numpy
+pdfplumber
